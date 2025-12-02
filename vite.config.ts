@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/react-exercise/',
   build: {
-    outDir: "dist"
+    outDir: "docs"
   }
 })
